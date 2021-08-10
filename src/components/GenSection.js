@@ -23,7 +23,7 @@ function GenSection() {
                  buttonStyle='btn--primary'
                  buttonSize='btn--large'
                 >
-                    WATH TRAILER <i className='far fa-play-circle'/>
+                    WATCH TRAILER <i className='far fa-play-circle'/>
                 </Button>
             </div>
         </div>
