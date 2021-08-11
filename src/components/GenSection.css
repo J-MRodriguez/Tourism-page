@@ -7,7 +7,6 @@ video{
 }
 
 .gen-container{
-    /* background: url('https://placeimg.com/2245/3992/nature') center center/cover no-repeat; */
     height: 100vh;
     width: 100%;
     display: flex;
