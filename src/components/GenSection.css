@@ -1,13 +1,13 @@
 video{
-    object-fit: cover;
+    object-fit:cover;
     width: 100%;
     height: 100%;
     position: fixed;
-    z-index: -1;
+    z-index: -999;
 }
 
 .gen-container{
-    height: 100vh;
+    height: 95vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -57,7 +57,7 @@ video{
         margin-top: -100px;
     }
     .gen-container >p{
-        font-size: 30px;
+        font-size: 26px;
     }
     .btn-mobile{
         display:block;

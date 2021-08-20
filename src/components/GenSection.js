@@ -6,7 +6,7 @@ import { Button } from './Button'
 function GenSection() {
     return (
         <div className='gen-container'>
-            <video src="assets/Splash - 23011.mp4"
+            <video src="assets/video2.mp4"
             autoPlay loop muted/>
             <h1>ADVENTURE AWAITS</h1>
             <p>what are you waiting for?</p>
